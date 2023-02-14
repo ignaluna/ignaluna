@@ -31,10 +31,10 @@ Always learning and creating. Ignacio Luna Thanks for your time!
 
 [![Igna Luna GitHub Stats](https://github-readme-stats.vercel.app/api?username=ignaluna&show_icons=true&count_private=true)](https://github.com/anandmainali)
 
-<!-- ### Github Repos
+### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iancamudev&repo=HenryShop&show_owner=true)](https://github.com/iancamudev/HenryShop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iancamudev&repo=gamepedia-front&show_owner=true)](https://github.com/iancamudev/gamepedia-front) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ignaluna&repo=Pokemon&show_owner=true)](https://github.com/ignaluna/Pokemon)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Gasnis&repo=Grupo13-PF&show_owner=false)](https://github.com/Gasnis/Grupo13-PF)
 
 <h3> 🤝 Contacto </h3>
 
