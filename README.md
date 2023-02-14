@@ -1,4 +1,4 @@
-### Hello Everyone! 👋 Soy [Igna Luna](https://www.instagram.com/ignaluna98/?hl=es)
+### Hello Everyone! 👋 I'm [Igna Luna](https://www.instagram.com/ignaluna98/?hl=es)
 > Desarrollador web Fullstack
 <div>
  <p>
