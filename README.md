@@ -2,7 +2,7 @@
 > Desarrollador web Fullstack
 <div>
  <p>
-Hi! My name is Ignacio, Im 24 years old.
+Hi! My name is Ignacio, Im 26 years old.
 I'm an artist and a front end developer.👩‍💻
 
 🖤My passion is create solutions, art and business. 
